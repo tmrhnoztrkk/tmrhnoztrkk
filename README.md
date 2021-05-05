@@ -1,12 +1,12 @@
-### Hi there I'm Timurhan Ö.  👋
+<h2>Hi there, I'm Timurhan Ö. <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
-<!--
-**tmrhnoztrkk/tmrhnoztrkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=tmrhnoztrkk&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&hide_border=true&hide=issues&hide_title=true&border_radius=6&hide_rank=true">
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer and Student Pilot!!
 
 - 🔭 I’m currently working on My Website
-- 🌱 I’m currently learning GOlang
-- 👯 I’m looking to collaborate on with other content creators
+- 👯 I’m looking to collaborate with other content creators
+- 🎈 I’m currently learning GOlang
+- ⚡ Fun fact: I love to Flying in The Simulator
 
-[🏡 instagram](https://www.instagram.com/tmrhnoztrkk) |
+[🏡 Instagram](https://www.instagram.com/tmrhnoztrkk) | [✨ Twitter](https://twitter.com/bnetimu)
